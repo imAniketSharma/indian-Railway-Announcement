@@ -1,6 +1,6 @@
 ## Indian Railways Announcement System
 
-<img src="railways.jpg" alt="Use Case Diagram" style="width:400px;height:400px">
+<img src="railways.jpg" alt="Model Picture" style="width:400px;height:400px">
 
 A project to demonstrate how we can generate the Railways Station Announcement by maintaining a database of required information regarding the trains in an excel sheet.
 What actually done in this project is that, 
