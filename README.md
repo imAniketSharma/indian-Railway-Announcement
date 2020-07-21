@@ -1,5 +1,7 @@
 ## Indian Railways Announcement System
 
+<img src="railways.jpg" alt="Use Case Diagram" style="width:400px;height:400px">
+
 A project to demonstrate how we can generate the Railways Station Announcement by maintaining a database of required information regarding the trains in an excel sheet.
 What actually done in this project is that, 
 * First of all we had to record the sample announcement of any of the train from the railway station, 
